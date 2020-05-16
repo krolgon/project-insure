@@ -1,0 +1,20 @@
+.layout-aboutWork {
+  background-image: url(../../imagens/bg-pattern-how-we-work-desktop.svg);
+  background-repeat: no-repeat;
+  background-position: right;
+  background-color: rgb(44, 38, 64);
+  margin-bottom: 7%;
+}
+
+.title-aboutWork {
+  color: #ffff;
+  font-family: 'Times New Roman', Times, serif;
+  padding-top: 5%;
+  padding-bottom: 8%;
+  padding-left: 10%;
+}
+
+.button-aboutWork {
+  margin-top: 12%;
+  color: white;
+}

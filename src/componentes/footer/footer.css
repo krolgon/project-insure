@@ -11,3 +11,16 @@
 .link-footer:hover {
   text-decoration: underline;
 }
+
+@media (min-width: 992px) {
+  .bg-footer {
+    background-image: url(../../imagens/bg-pattern-footer-desktop.svg);
+    background-repeat: no-repeat;
+    background-color: #fafafa;
+    padding-top: 3%;
+  }
+}
+
+.footer-icon-margin {
+  margin-right: 7%;
+}
