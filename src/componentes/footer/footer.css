@@ -1,0 +1,13 @@
+.title-footer {
+  font-size: 15px;
+  color: #9e9e9e;
+}
+
+.link-footer {
+  text-decoration: none;
+  color: #212121;
+}
+
+.link-footer:hover {
+  text-decoration: underline;
+}
