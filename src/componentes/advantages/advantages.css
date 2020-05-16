@@ -1,0 +1,21 @@
+.layout-advantages {
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+
+.head-advantages {
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  margin-bottom: 5%;
+}
+
+.title-advantages {
+  font-size: 25px;
+  color: #212121;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.content-advantages {
+  font-size: 15px;
+  color: #9e9e9e;
+}
