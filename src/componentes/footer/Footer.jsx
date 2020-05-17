@@ -17,7 +17,7 @@ const Rodape = () => {
         <div className='container'>
           <div className='row'>
             <div className='col s4 offset-s1'>
-              <img src={Logo}></img>
+              <img src={Logo} alt='logo'></img>
             </div>
             <div className='col s4 offset-s3'>
               <IconFooter value={Facebook}></IconFooter>
@@ -27,7 +27,7 @@ const Rodape = () => {
             </div>
           </div>
           <hr />
-          <div class='row'>
+          <div className='row'>
             <FooterLinks
               title='OUR COMPANY'
               link1='HOW WE WORK'

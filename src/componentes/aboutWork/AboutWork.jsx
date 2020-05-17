@@ -14,7 +14,7 @@ const AboutWork = () => {
           </h2>
         </div>
         <div className='col s4 button-aboutWork center-align'>
-          <a className=' waves-effect waves-light btn-large' href='/'>
+          <a className=' btn disabled' href='/'>
             HOW WE WORK
           </a>
         </div>
