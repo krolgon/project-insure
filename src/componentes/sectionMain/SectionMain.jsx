@@ -19,7 +19,9 @@ const SectionMain = () => {
             expertise and technology to help you find the plan that's right for
             you. Ensure you and your loved ones are protected.
           </p>
-          <a href='/'>View Plans</a>
+          <a href='/' className='step-6'>
+            View Plans
+          </a>
         </div>
         <ImageMain image={Image}></ImageMain>
       </div>

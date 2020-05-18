@@ -9,7 +9,7 @@ import ReactJoyride from '../guide_map/Guide';
 const Menu = () => {
   return (
     <React.Fragment>
-      <ReactJoyride></ReactJoyride>
+      <ReactJoyride showProgress={true} continuous={true}></ReactJoyride>
       <nav className='step-1'>
         <div className='nav-wrapper grey lighten-5'>
           <a href='#' className='brand-logo margin-left-5'>
@@ -22,18 +22,18 @@ const Menu = () => {
               </a>
             </li>
             <li>
-              <a className='color-font-menu' href='badges.html'>
+              <a className='color-font-menu step-3' href='badges.html'>
                 BLOG
               </a>
             </li>
             <li>
-              <a className='color-font-menu' href='collapsible.html'>
+              <a className='color-font-menu step-4' href='collapsible.html'>
                 ACCOUNT
               </a>
             </li>
             <li>
               <a
-                className='waves-effect waves-light btn grey darken-4'
+                className='waves-effect waves-light btn grey darken-4 step-5'
                 href='collapsible.html'
               >
                 VIEW PLANS

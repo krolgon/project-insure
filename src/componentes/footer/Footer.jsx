@@ -19,7 +19,7 @@ const Rodape = () => {
             <div className='col s4 offset-s1'>
               <img src={Logo} alt='logo'></img>
             </div>
-            <div className='col s4 offset-s3'>
+            <div className='col s4 offset-s3 step-7'>
               <IconFooter value={Facebook}></IconFooter>
               <IconFooter value={Twitter}></IconFooter>
               <IconFooter value={Pintrest}></IconFooter>
